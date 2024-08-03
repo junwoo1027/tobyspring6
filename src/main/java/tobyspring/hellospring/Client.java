@@ -6,7 +6,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import java.io.IOException;
 import java.math.BigDecimal;
-import org.springframework.context.annotation.ComponentScan;
+import tobyspring.hellospring.payment.Payment;
+import tobyspring.hellospring.payment.PaymentService;
 
 public class Client {
 
